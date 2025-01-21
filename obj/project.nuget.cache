@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "w4lN2mQ12T4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sana\\Downloads\\Timer_v1\\Timer_v1\\Timer_v1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sana\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1537.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1537.0.nupkg.sha512",
+    "C:\\Users\\Sana\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.314.76\\microsoft.sqlserver.types.14.0.314.76.nupkg.sha512",
+    "C:\\Users\\Sana\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Sana\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Sana\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sana\\.nuget\\packages\\system.resources.extensions\\5.0.0\\system.resources.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sana\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

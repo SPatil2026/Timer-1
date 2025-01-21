@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sana\\Downloads\\Timer_v1\\Timer_v1\\Timer_v1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sana\\Downloads\\Timer_v1\\Timer_v1\\Timer_v1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sana\\Downloads\\Timer_v1\\Timer_v1\\Timer_v1.csproj",
+        "projectName": "Timer_v1",
+        "projectPath": "C:\\Users\\Sana\\Downloads\\Timer_v1\\Timer_v1\\Timer_v1.csproj",
+        "packagesPath": "C:\\Users\\Sana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sana\\Downloads\\Timer_v1\\Timer_v1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Sana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[150.1537.0, )"
+            },
+            "Microsoft.SqlServer.Types": {
+              "target": "Package",
+              "version": "[14.0.314.76, )"
+            },
+            "System.Resources.Extensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

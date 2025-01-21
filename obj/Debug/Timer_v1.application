@@ -7,14 +7,14 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Timer_v1.exe.manifest" size="3981">
+    <dependentAssembly dependencyType="install" codebase="Timer_v1.exe.manifest" size="8301">
       <assemblyIdentity name="Timer_v1.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="en" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>SPKpE0rk0i3WmMcNOBj+ItVDFgEx7fmH6H0R+HxkcoA=</dsig:DigestValue>
+        <dsig:DigestValue>MPY99VfxxoocbEOHwtqhUEC0HRRdzt+Ek9nSQvUqUeU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
